@@ -1,1 +1,3 @@
-# FIT3179_Data_Vis2
+# FIT3179: Data Visualisation
+
+## Data Visualisation Project 2
