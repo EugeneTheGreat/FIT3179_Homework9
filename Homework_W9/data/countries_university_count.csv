@@ -1,8 +1,8 @@
 ,location,count,percentage
-0,United States,179,7.63
+0,United States of America,179,7.63
 1,United Kingdom,163,6.95
 2,Japan,152,6.48
-3,Russian Federation,103,4.39
+3,Russia,103,4.39
 4,India,101,4.31
 5,China,95,4.05
 6,Turkey,80,3.41
@@ -32,7 +32,7 @@
 30,Algeria,24,1.02
 31,Malaysia,22,0.94
 32,Romania,22,0.94
-33,Czech Republic,20,0.85
+33,Czechia,20,0.85
 34,Greece,18,0.77
 35,South Africa,16,0.68
 36,Portugal,16,0.68
@@ -103,7 +103,7 @@
 101,Albania,1,0.04
 102,Cambodia,1,0.04
 103,Libya,1,0.04
-104,Brunei Darussalam,1,0.04
+104,Brunei,1,0.04
 105,Luxembourg,1,0.04
 106,Montenegro,1,0.04
 107,Cuba,1,0.04
